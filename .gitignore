@@ -13,6 +13,7 @@ dist/
 
 # Local editor / OS files
 .vscode/
+.vs/
 .idea/
 .DS_Store
 Thumbs.db
